@@ -1,5 +1,4 @@
-package digitalhouse.android.basededatosywebbaseintegrado.model;
-import com.google.gson.annotations.SerializedName;
+package digitalhouse.android.integradortracks.model;
 
 /**
  * Created by digitalhouse on 6/06/16.

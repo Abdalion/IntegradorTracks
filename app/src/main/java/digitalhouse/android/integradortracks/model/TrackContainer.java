@@ -1,4 +1,4 @@
-package digitalhouse.android.basededatosywebbaseintegrado.model;
+package digitalhouse.android.integradortracks.model;
 
 import com.google.gson.annotations.SerializedName;
 

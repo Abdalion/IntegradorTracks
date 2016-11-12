@@ -1,4 +1,4 @@
-package digitalhouse.android.basededatosywebbaseintegrado.dao;
+package digitalhouse.android.integradortracks.dao;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -13,10 +13,10 @@ import com.google.gson.Gson;
 import java.util.ArrayList;
 import java.util.List;
 
-import digitalhouse.android.basededatosywebbaseintegrado.model.Track;
-import digitalhouse.android.basededatosywebbaseintegrado.model.TrackContainer;
-import digitalhouse.android.basededatosywebbaseintegrado.util.HTTPConnectionManager;
-import digitalhouse.android.basededatosywebbaseintegrado.util.ResultListener;
+import digitalhouse.android.integradortracks.model.Track;
+import digitalhouse.android.integradortracks.model.TrackContainer;
+import digitalhouse.android.integradortracks.util.HTTPConnectionManager;
+import digitalhouse.android.integradortracks.util.ResultListener;
 
 
 /**

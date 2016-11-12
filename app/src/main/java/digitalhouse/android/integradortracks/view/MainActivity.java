@@ -1,4 +1,4 @@
-package digitalhouse.android.basededatosywebbaseintegrado.view;
+package digitalhouse.android.integradortracks.view;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -7,10 +7,10 @@ import android.support.v7.widget.RecyclerView;
 
 import java.util.List;
 
-import digitalhouse.android.basededatosywebbaseintegrado.R;
-import digitalhouse.android.basededatosywebbaseintegrado.controller.TrackController;
-import digitalhouse.android.basededatosywebbaseintegrado.model.Track;
-import digitalhouse.android.basededatosywebbaseintegrado.util.ResultListener;
+import digitalhouse.android.integradortracks.R;
+import digitalhouse.android.integradortracks.controller.TrackController;
+import digitalhouse.android.integradortracks.model.Track;
+import digitalhouse.android.integradortracks.util.ResultListener;
 
 public class MainActivity extends AppCompatActivity {
 

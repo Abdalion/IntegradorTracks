@@ -1,4 +1,4 @@
-package digitalhouse.android.basededatosywebbaseintegrado.util;
+package digitalhouse.android.integradortracks.util;
 
 import android.content.Context;
 import android.net.ConnectivityManager;

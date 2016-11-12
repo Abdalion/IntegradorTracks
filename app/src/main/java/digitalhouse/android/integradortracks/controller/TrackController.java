@@ -1,14 +1,14 @@
-package digitalhouse.android.basededatosywebbaseintegrado.controller;
+package digitalhouse.android.integradortracks.controller;
 
 import android.content.Context;
 import android.widget.Toast;
 
 import java.util.List;
 
-import digitalhouse.android.basededatosywebbaseintegrado.dao.TrackDAO;
-import digitalhouse.android.basededatosywebbaseintegrado.model.Track;
-import digitalhouse.android.basededatosywebbaseintegrado.util.HTTPConnectionManager;
-import digitalhouse.android.basededatosywebbaseintegrado.util.ResultListener;
+import digitalhouse.android.integradortracks.dao.TrackDAO;
+import digitalhouse.android.integradortracks.model.Track;
+import digitalhouse.android.integradortracks.util.HTTPConnectionManager;
+import digitalhouse.android.integradortracks.util.ResultListener;
 
 /**
  * Created by digitalhouse on 6/06/16.

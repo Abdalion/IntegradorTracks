@@ -1,4 +1,4 @@
-package digitalhouse.android.basededatosywebbaseintegrado.view;
+package digitalhouse.android.integradortracks.view;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -14,8 +14,8 @@ import com.bumptech.glide.Glide;
 import java.util.ArrayList;
 import java.util.List;
 
-import digitalhouse.android.basededatosywebbaseintegrado.R;
-import digitalhouse.android.basededatosywebbaseintegrado.model.Track;
+import digitalhouse.android.integradortracks.R;
+import digitalhouse.android.integradortracks.model.Track;
 
 /**
  * Created by andres on 22/06/16.

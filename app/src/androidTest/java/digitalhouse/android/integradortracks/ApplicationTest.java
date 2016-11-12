@@ -1,4 +1,4 @@
-package digitalhouse.android.basededatosywebbaseintegrado;
+package digitalhouse.android.integradortracks;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
